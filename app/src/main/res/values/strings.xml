@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MatchBook</string>
+    <string name="start_page">Welcome!</string>
+    <string name="back_button">Back</string>
+    <string name="registration">Registration</string>
+    <string name="login">Login</string>
+    <string name="home">Home</string>
+    <string name="football">Football</string>
+    <string name="basketball">Basketball</string>
+    <string name="volleyball">Volleyball</string>
+    <string name="footballdesc">Take a look on upcoming or previous matches</string>
+    <string name="cityuni">Manchester City Manchester United 16:00</string>
+    <string name="milan">Milan Roma 18:00</string>
+    <string name="barca">Barcelona Real Madrid 18:00</string>
+    <string name="bayern">Bayern Borussia 20:00</string>
+    <string name="lakers">Bulls Lakers 02:00</string>
+    <string name="cleveland">Cavaliers Warriors 04:00</string>
+    <string name="knicks">Knicks Pistons 04:00</string>
+    <string name="brazil">Brazil USA 12:00</string>
+    <string name="germany">Germany Austria 14:00</string>
+    <string name="bosnia">Bosnia and Herzegovina Croatia 16:00</string>
+
+</resources>
